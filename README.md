@@ -4,10 +4,16 @@ This is an introduction to Hibernate and follows the tutorial by:
 
 https://www.tutorialspoint.com/hibernate/
 
+# What this does?
+
+This creates employees in a mysql db using hibernate
+
+
 # Assumptions
 
 you have installed mysql
 you have maven
+
 
 # To Run
 
