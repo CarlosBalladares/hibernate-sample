@@ -4,7 +4,7 @@ This is an introduction to Hibernate and follows the tutorial by:
 
 https://www.tutorialspoint.com/hibernate/
 
-# What this does?
+# What does this do?
 
 This creates employees in a mysql db using hibernate
 
